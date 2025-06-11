@@ -3,7 +3,7 @@
 **作者 / Author:** LENDO-棱度  
 📧 Email: psb232@outlook.com  
 💬 QQ: 2325132172  
-🔗 GitHub: （如有请填写）
+🔗 GitHub: [https://github.com/ShuangYL](https://github.com/ShuangYL)
 
 ---
 
@@ -89,4 +89,4 @@ This script is licensed under the MIT License — feel free to use, modify, and 
 
 - 💬 QQ: 2325132172
 - 📧 Email: psb232@outlook.com
-- 🧑‍💻 GitHub: （如有请填写）
+- 🧑‍💻 GitHub: [https://github.com/ShuangYL](https://github.com/ShuangYL)
