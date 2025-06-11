@@ -75,11 +75,11 @@ sudo ./ubuntu-lendo.sh
 
 ---
 
-## 📜 开源协议 | License
+## 📜 开源协议 | GPL 3.0
 
-该脚本采用 MIT License 开源协议，允许自由使用、修改与传播，但请保留作者署名信息。
+该脚本采用 GPL 3.0 开源协议，允许自由使用、修改与传播，但请保留作者署名信息。
 
-This script is licensed under the MIT License — feel free to use, modify, and distribute with proper attribution.
+This script is licensed under the MIT GPL 3.0 free to use, modify, and distribute with proper attribution.
 
 ---
 
